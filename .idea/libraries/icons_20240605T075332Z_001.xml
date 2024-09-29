@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="icons-20240605T075332Z-001">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/ProjectUse/icons-20240605T075332Z-001.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/ProjectUse/jcalendar-tz-1.3.3-4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ProjectUse/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/ProjectUse/rs2xml.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
